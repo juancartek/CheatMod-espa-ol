@@ -1,7 +1,7 @@
 ﻿var CheatModKristof1104 = {};
 (function () {
 	var new_date = 0;
-	var perfectScores = false;
+	var puntuacion perfecta = false;
 	var noBugsMode = false;
 	var fastResearch = false;
 	var showAllHints = false;
