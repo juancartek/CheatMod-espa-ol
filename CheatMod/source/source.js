@@ -4,7 +4,7 @@
 	var puntuacion perfecta = false;
 	var noBugsMode = false;
 	var fastResearch = false;
-	var showAllHints = false;
+	var Mostrar todas las sugerencias = false;
 	
 	var oldSetupNewGame = GameManager._setupNewGame;
 	var newSetupNewGame = function(){
